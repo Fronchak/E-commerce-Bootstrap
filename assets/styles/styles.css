@@ -124,3 +124,18 @@ body {
 #search-form input:focus {
     box-shadow: none;
 }
+
+/* BOTTOM NAVBAR */
+
+#bottom-navbar-container .container {
+    justify-content: flex-end;
+}
+
+#bottom-navbar-container a {
+    font-weight: bold;
+    color: #FFF;
+}
+
+#bottom-navbar-container .navbar-toggler {
+    font-size: 1.5em;
+}
